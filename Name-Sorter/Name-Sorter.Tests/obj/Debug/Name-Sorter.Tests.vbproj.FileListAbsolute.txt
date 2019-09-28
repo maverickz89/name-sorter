@@ -1,0 +1,11 @@
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\obj\Debug\Name-Sorter.Tests.vbprojResolveAssemblyReference.cache
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\bin\Debug\Name-Sorter.Tests.dll.config
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\bin\Debug\Name-Sorter.Tests.dll
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\bin\Debug\Name-Sorter.Tests.pdb
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\bin\Debug\Name-Sorter.Tests.xml
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\bin\Debug\Name-Sorter.dll
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\bin\Debug\Name-Sorter.pdb
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\bin\Debug\Name-Sorter.xml
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\obj\Debug\Name-Sorter.Tests.dll
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\obj\Debug\Name-Sorter.Tests.xml
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter.Tests\obj\Debug\Name-Sorter.Tests.pdb

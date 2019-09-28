@@ -1,0 +1,9 @@
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter\obj\Debug\Name-Sorter.vbprojResolveAssemblyReference.cache
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter\obj\Debug\Name_Sorter.Resources.resources
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter\obj\Debug\Name-Sorter.vbproj.GenerateResource.Cache
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter\bin\Name-Sorter.dll
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter\bin\Name-Sorter.pdb
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter\bin\Name-Sorter.xml
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter\obj\Debug\Name-Sorter.dll
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter\obj\Debug\Name-Sorter.xml
+D:\Andri\ASP.NET\Name-Sorter\Name-Sorter\Name-Sorter\obj\Debug\Name-Sorter.pdb

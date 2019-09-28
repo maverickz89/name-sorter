@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Name-Sorter", "Name-Sorter\Name-Sorter.vbproj", "{4C9534B1-D209-4C4E-B282-48D7D973159B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Name-Sorter.Tests", "Name-Sorter.Tests\Name-Sorter.Tests.vbproj", "{1887FA76-1691-42FA-8B54-55D94E8A2952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9534B1-D209-4C4E-B282-48D7D973159B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9534B1-D209-4C4E-B282-48D7D973159B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9534B1-D209-4C4E-B282-48D7D973159B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9534B1-D209-4C4E-B282-48D7D973159B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1887FA76-1691-42FA-8B54-55D94E8A2952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1887FA76-1691-42FA-8B54-55D94E8A2952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1887FA76-1691-42FA-8B54-55D94E8A2952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1887FA76-1691-42FA-8B54-55D94E8A2952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
